@@ -13,7 +13,7 @@
 - **Dynamic Outfit Recommendations:** The system uses advanced algorithms to ensure that users are presented with new and unique outfit suggestions they haven't seen before. If users are not satisfied with the suggestions for the day, they have the option to skip and receive more recommendations until they find outfits that match their preferences.
 
 - **Enhanced User Experience:** The app also provides recommendations based on the user's past search history, comments, and interactions, offering a more engaging and personalized experience.
-- 
+
 ## Tech stack
 * Build Tool: Maven 3.9.5 or higher
 * Programming Language: Java 17
