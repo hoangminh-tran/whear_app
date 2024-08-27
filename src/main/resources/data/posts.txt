@@ -1,0 +1,684 @@
+
+{
+    "content": "Những ngày thời tiết giao mùa thất thường, việc lựa chọn trang phục là điều khiến quý cô băn khoăn. Mặc ít áo thì sợ lạnh, nhưng mặc dày quá lại sợ nóng. Vậy đừng bỏ qua ngay gợi ý từ HeraDG này nhé!\n\nNhững chiếc áo phao kiểu dáng gile mới lạ, không quá dày nhưng vẫn đảm bảo giữ ấm cơ thể khi ra đường. Đặc biệt gam màu đỏ nổi bật chắc chắn sẽ đem đến vẻ ngoài thời thượng và sành điệu cho quý cô dù xuất hiện ở bất cứ đâu.\n\nCùng Ngọc Anh trải nghiệm BST Áo Phao mới nhất của HeraDG nhé!",
+    "hashtag": [
+        "#trending",
+        "#2024",
+        "#news"
+    ],
+    "image": [
+        "https://afamilycdn.com/150157425591193600/2022/12/29/1-1672309252279500485848-1672316104938-16723161058451909929284.jpg"
+    ],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "1"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Khám phá phong cách mới cùng HeraDG! Bộ sưu tập thời trang mới nhất sẽ làm cho bạn tỏa sáng trong mọi bữa tiệc và sự kiện. Những chiếc váy thanh lịch, đầy phong cách cùng với phụ kiện thời trang độc đáo sẽ làm nổi bật vẻ đẹp và gu thẩm mỹ của bạn.\n\nHãy để chúng tôi đồng hành cùng bạn trên hành trình khám phá phong cách và tạo nên những khoảnh khắc thời trang đáng nhớ!",
+    "hashtag": [
+        "#fashionista",
+        "#styleinspiration",
+        "#newarrivals"
+    ],
+    "image": [
+        "https://i.pinimg.com/564x/59/bb/f7/59bbf7e80f5b2689a0d86cb6c6b90572.jpg"
+    ],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "3"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Bước vào mùa thu với phong cách ấm áp và sang trọng! Bộ sưu tập mới mang đến cho bạn những chiếc áo len đẹp mắt và phụ kiện thời trang đa dạng. Hãy tận hưởng những ngày se lạnh với những bộ trang phục thu đầy phá cách, giúp bạn tỏa sáng giữa khung cảnh mùa thu lãng mạn.\n\nHãy cùng chúng tôi thả hồn vào không khí của mùa thu và tạo nên những bức tranh thời trang đẹp nhất!",
+    "hashtag": [
+        "#fallfashion",
+        "#cozyvibes",
+        "#autumnstyle"
+    ],
+    "image": [
+        "https://i.pinimg.com/564x/e6/dc/f2/e6dcf2344b5d9642fdc913bb45ec777f.jpg"
+    ],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "2"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Bước ra khỏi khuôn khổ với phong cách độc đáo từ bộ sưu tập mới của chúng tôi! Áo hoodie với họa tiết graffiti, quần ống rộng độc đáo và kính mát phong cách sẽ biến mỗi bước đi của bạn thành một tác phẩm nghệ thuật di động.\n\nHãy thách thức giới hạn và khám phá thế giới thú vị của thời trang với chúng tôi!",
+    "hashtag": [
+        "#streetartstyle",
+        "#urbanfashion",
+        "#creativeexpressions"
+    ],
+    "image": [
+        "https://i.pinimg.com/564x/10/6b/a5/106ba56e1955b91739eda1fa872e5786.jpg"
+    ],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "2"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Cuộc sống là một cuộc phiêu lưu không ngừng, và phong cách của bạn là hành trang đặc biệt. Bộ sưu tập mới mang đến những chiếc áo thun thoải mái, quần jogger linh hoạt và giày sneakers chất liệu nhẹ - tất cả là những người bạn đồng hành hoàn hảo cho mọi chuyến đi.\n\nHãy cùng chúng tôi ghi lại những khoảnh khắc thường ngày đơn giản nhưng đầy ý nghĩa với phong cách thời trang đặc sắc!",
+    "hashtag": [
+        "#everydaystyle",
+        "#casualvibes",
+        "#adventurefashion"
+    ],
+    "image": [
+        "https://i.pinimg.com/564x/56/f5/f1/56f5f10c91ad5b082f92727d8899b970.jpg"
+    ],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "5"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Sự tinh tế không chỉ là về trang phục, mà còn là cách bạn di chuyển trong cuộc sống. Mỗi chiếc áo, đôi giày đều là câu chuyện của riêng mình. Mình chọn những item thoải mái và phong cách để thể hiện bản thân. Bạn thấy sao?",
+    "hashtag": [
+        "#casualstyle",
+        "#comfortablevibes",
+        "#expressyourself"
+    ],
+    "image": [
+        "https://i.pinimg.com/736x/90/5f/b5/905fb5612dbb035e89c89c9c82539d95.jpg"
+    ],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "3"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Mỗi ngày là một cơ hội để tỏa sáng và thể hiện phong cách riêng của bạn. Chiếc áo thun màu sắc, quần jogger thoải mái là lựa chọn lý tưởng cho những buổi gặp gỡ bạn bè hay đi chơi. Bạn có phong cách nào cho ngày hôm nay?",
+       "hashtag": [
+        "#casualday",
+        "#comfystyle",
+        "#dailyfashion"
+    ],
+    "image": [
+        "https://i.pinimg.com/564x/d5/8e/62/d58e6223f3e36483a547fb813f4dc0c3.jpg"
+    ],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "7"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Cuộc sống là cuộc phiêu lưu, và mỗi chiếc áo, đôi giày là hành trang cho hành trình. Hãy để bộ sưu tập mới của mình làm nổi bật những khoảnh khắc đầy ý nghĩa trong ngày thường. Bạn đã chọn outfit cho hôm nay chưa?",
+        "hashtag": [
+        "#everydayadventure",
+        "#fashionjourney",
+        "#casualchic"
+    ],
+    "image": [
+        "https://i.pinimg.com/564x/8d/a5/a6/8da5a63ff1f0c3ac09482d710faba108.jpg"
+    ],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "2"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Mỗi bước chân là một câu chuyện, và mỗi chiếc áo là biểu tượng của cuộc sống đầy năng lượng. Hãy để phong cách thời trang của bạn làm nổi bật những khoảnh khắc bình thường thành đặc biệt. Bạn thường chọn phong cách nào để bắt đầu một ngày mới?",
+       "hashtag": [
+        "#styleoftheday",
+        "#positivevibes",
+        "#casualliving"
+    ],
+    "image": [
+        "https://i.pinimg.com/564x/34/d6/b7/34d6b7cf570421a24b993db93776c4ec.jpg"
+    ],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "5"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Thời trang không chỉ là sự kết hợp màu sắc, mà còn là cách bạn thể hiện tâm hồn và cái tôi riêng của mình. Hãy để bộ sưu tập mới tạo nên những câu chuyện thú vị của bạn. Bạn thấy phong cách nào thích hợp cho ngày hôm nay?",
+        "hashtag": [
+        "#soulfulstyle",
+        "#uniqueexpression",
+        "#casualscene"
+    ],
+    "image": [
+        "https://i.pinimg.com/564x/12/4d/bc/124dbcf272e2f8420337f0540692781c.jpg"
+    ],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "6"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Mỗi bức ảnh là một chặng đường, và mỗi chiếc áo là hành trang của hành trình. Hãy để phong cách của bạn là điểm nhấn cho những khoảnh khắc đơn giản nhưng đầy ý nghĩa. Bạn sử dụng phong cách nào để thể hiện bản thân?",
+        "hashtag": [
+        "#fashionjourney",
+        "#casualchic",
+        "#urbanliving"
+    ],
+    "image": [
+        "https://i.pinimg.com/564x/4c/01/36/4c0136f54c17e5626c9f47c1566f5ffa.jpg"
+    ],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "4"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Thời trang không chỉ là về việc mặc đẹp mà còn là cách thể hiện chính mình. Hãy để từng chiếc áo, từng đôi giày kể lên những câu chuyện riêng của bạn. Bộ sưu tập mới mang đến sự đa dạng và cái nhìn mới mẻ về phong cách. Bạn đã lựa chọn cho mình chiếc gì chưa?",
+       "hashtag": [
+        "#individualstyle",
+        "#fashionstories",
+        "#casualvibes"
+    ],
+    "image": [
+        "https://i.pinimg.com/564x/ce/d3/43/ced34364c93d75e564161d945762c968.jpg"
+    ],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "1"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Mỗi chiếc áo là một trang sách, và bạn là người viết nên câu chuyện. Bộ sưu tập mới từ HeraDG như một tác phẩm nghệ thuật, tạo nên những trang sách thời trang độc đáo. Bạn đã tìm thấy câu chuyện của mình chưa?",
+        "hashtag": [
+        "#fashionnovel",
+        "#artisticstyle",
+        "#casualliving"
+    ],
+    "image": [
+        "https://i.pinimg.com/564x/c7/b5/51/c7b551bdae0dd2d1376d35abc2e27873.jpg"
+    ],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "6"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Cuộc sống là cuộc phiêu lưu không ngừng, và phong cách là cách bạn ghi lại những dấu ấn trên hành trình. Hãy để bộ sưu tập mới này làm nổi bật vẻ độc đáo và cá tính của bạn. Bạn đã sẵn sàng cho một ngày mới chưa?",
+       "hashtag": [
+        "#adventurestyle",
+        "#uniquelook",
+        "#casualliving"
+    ],
+    "image": [
+        "https://i.pinimg.com/564x/14/2a/47/142a47ab600a2085e8b4855368c8967c.jpg"
+    ],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "4"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Embrace your individual style and let your clothes speak your story. Have you found your statement piece yet?",
+       "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+    "image": ["https://i.pinimg.com/564x/3a/aa/2e/3aaa2ebb524d2230e1628d251eb81c3f.jpg"],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "14"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Fashion is the language of the soul. What is your outfit saying today?",
+        "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+    "image": ["https://i.pinimg.com/564x/79/9e/db/799edb0a9574e0fd604fd80b28a8c957.jpg"],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "7"
+}
+-----------------------------------------------------------------------------------------------
+{
+    "content": "Fashion is a reflection of your personality. How will you express yourself today? ",
+       "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+    "image": ["https://i.pinimg.com/736x/6c/57/51/6c57510a816c2049d2aa159ef87fc929.jpg"],
+    "status": "ACTIVE",
+    "typeOfPosts": "POSTS",
+    "userID": "22"
+}
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion isn't just about looking good; it's about expressing yourself. What does your outfit say about you today?",
+            "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/ce/d3/43/ced34364c93d75e564161d945762c968.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "3"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Your style journey is an ongoing adventure. What's the next chapter in your fashion story?",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/e5/90/50/e59050047f6fd054a377897ba2f0a6df.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "18"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is a way to express yourself. How will you show your personality today? ",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/18/1f/2c/181f2ce6ecded34cdecaee853239e9b6.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "10"
+    }
+
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Each garment in your closet holds a story. What tale is your ensemble telling today?",
+              "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/f9/5e/dd/f95edd396682b7d4ab40dca14d86c1d0.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "9"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Dressing up is an opportunity to express gratitude for the canvas of your body.",
+              "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/ef/0c/47/ef0c47b74f642ae6e21847d9304c0a8b.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "23"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Your wardrobe is a canvas, and your style is the masterpiece. Show the world your unique brushstrokes.",
+             "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/68/93/e6/6893e650142a522ecfbc19a673b00585.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "14"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is the embodiment of confidence and self-assurance. How will you empower yourself today? ",
+              "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/24/ee/48/24ee487e5e39c06ca1a7b04f972b6b59.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "7"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Dive into the realm of diversity with our latest collection. It's time to redefine your fashion narrative.",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/bb/5f/7f/bb5f7f9b63999ce250417d28dfae3cf3.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "18"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Your style is a reflection of your innermost thoughts and feelings. What are you expressing today? ",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/ee/48/ef/ee48efb5bf82863a9edb8d4316c5c848.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "4"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Update your wardrobe with pieces that reflect your evolving style journey. What's your next fashion adventure?",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/72/c5/8d/72c58da36d1e3c5381a9426b2129f774.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "11"
+    }
+
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Let your fashion choices be a reflection of your values and beliefs. What do you stand for today?",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/0a/d0/37/0ad0377c106f66f324bcfadd72bf35be.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "19"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Your fashion choices should resonate with your true self. Let authenticity be your style guide. ",
+                "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/7d/b8/5a/7db85af08dfd7cd2423d7417ce7eb450.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "8"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Your wardrobe is a playground for experimentation and self-discovery. What will you discover today? ",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/29/b7/46/29b74685f1f308df32aa285508286e89.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "16"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Explore the spectrum of style and discover the perfect ensemble that speaks to you",
+             "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/44/fd/d1/44fdd19773ba5b3e6c5c338d85bf9cac.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "6"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is an expression of freedom and individuality. How will you exercise your freedom today? ",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/e7/e5/35/e7e5355c1259899e8871855eee2da817.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "24"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is more than what meets the eye; it's a storytelling medium. What story does your attire tell? ",
+              "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/50/60/3b/50603b88318ab5a03f4fb9a9dd78d2f5.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "13"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Dressing up is an opportunity to celebrate the beauty of diversity and self-expression. ",
+                "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/35/c0/06/35c0064c6d29532e3cc4710a9f8e4d7c.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "3"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Let your outfit be the narrator of your journey, expressing every twist and turn through style.",
+              "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/01/ff/e0/01ffe05061858ace0d4ac401cf95afe4.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "20"
+    }
+
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is the ultimate form of creative expression. What masterpiece will you unveil today? ",
+              "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/ca/df/b1/cadfb120da2a912b6998d6ddff529ac4.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "22"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Unveil the chapters of your life through your fashion choices. Every garment has a tale to tell.",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/ee/5d/e8/ee5de854f8e85d286bc5c79d337b9e22.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "16"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is the language of self-expression. What is your outfit saying about you today? ",
+                "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/a0/3f/c2/a03fc271dcf9b200c824b8855f3394b0.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "8"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Dressing up is an art form; let your creativity flow freely. What masterpiece will you create today? ",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/4e/f1/10/4ef11084324eeecad599c1e1439d7085.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "1"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is the canvas of your personality. What masterpiece will you create today? ",
+             "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/d6/4c/4f/d64c4f0e1a478ea06d77ca05897cdbb8.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "12"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Your style is the mirror to your soul. What reflection are you sharing with the world today?",
+                "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/b6/43/04/b64304bc64a52d37e7a4a043723b2185.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "3"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Your style is a reflection of your inner confidence. How will you express it today? ",
+              "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/34/8b/9e/348b9e8c77ba0f7a91677827fab8ab3a.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "25"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Elevate your everyday look with pieces that capture the essence of who you are. ",
+                "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/69/30/36/6930362344083a10bc9651ab469955ad.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "6"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is a reflection of your personality. How will you shine today? ",
+                "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/fe/7b/56/fe7b568f9b77141a1a136c64ec04cf23.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "19"
+    }
+
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion allows you to be the author of your own narrative. What story are you writing today? ",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/fe/bc/ce/febcce4eba15ac170b11687601e12ef2.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "7"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Your style is a reflection of your personality. What aspect of yourself will you show today? ",
+              "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/bd/3e/d0/bd3ed0865a8803eba2730df5c00a2f9f.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "13"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Embrace the diversity of styles and find the perfect match that resonates with your essence.",
+            "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/6a/c7/03/6ac7034c11495c0f078526b7e9ec67f3.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "19"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is an extension of your personality. How will you express your individuality today? ",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/ec/69/23/ec6923d11089b2758805a08cb06a8d63.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "26"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Let your fashion choices be guided by authenticity and self-expression. ",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/11/34/ff/1134fff9dd12c536247ce29e686bfc6e.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "2"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is a way to express your individuality. How will you showcase your uniqueness today? ",
+             "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/2b/05/24/2b0524f3412c7fa9f986e8353bb4e76b.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "15"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is the canvas, and you are the artist. What masterpiece will you create today? ",
+              "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/01/bb/fe/01bbfe0ef7a262b9891d8242d35d1f7f.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "4"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is a way to express your personality. How will you show the world who you are today? ",
+              "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/83/53/f2/8353f2e225d05ead4de38289ed6fc19d.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "21"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Your style is a celebration of your uniqueness. What are you celebrating today?",
+             "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/29/ed/49/29ed4973ff69c923611094f48421d610.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "10"
+    }
+
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is a reflection of your personality. What message will you convey today? ",
+              "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/53/6d/8f/536d8f96b672195543a54437a1808149.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "7"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is the ultimate form of self-expression. What statement are you making today? ",
+              "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/cc/a8/23/cca82373e938adab4e3f4849a0c72487.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "13"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is an expression of your inner self. How will you express yourself today?",
+             "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/4a/0d/f7/4a0df7e0d3c9006838d793b1ff581671.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "19"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Your wardrobe is a reflection of your personality. What aspect of yourself are you showcasing today? ",
+                "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/dc/7e/dc/dc7edc0f7abffb3d7c153354e305f0e7.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "26"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is a way to express yourself. How will you show your personality today? ",
+              "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/fe/67/b1/fe67b11a2f0e62256ef1833b7d871a4e.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "2"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Dressing up is an opportunity to step into different roles and personas. Who will you be today? ",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/06/a9/e4/06a9e4200e6ecec38ad3c6bd01303c9a.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "15"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is a reflection of your personality. How will you express yourself today? ",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/06/e6/99/06e6996484f9e69a8ab5ac9167b4c956.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "4"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is an extension of your personality. What facet of yourself are you revealing today? ",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/94/96/ab/9496ab3aed5181f98fa321347b4a2367.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "21"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is a way to express yourself. How will you show your personality today? ",
+                "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/cc/f6/e9/ccf6e94bfe6572bdeb18613cf659a6eb.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "10"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Your style is as unique as your fingerprint. How will you leave your mark today? ",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/4f/35/12/4f3512430277f138ef70f8d87a82729a.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "8"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is a reflection of your personality. How will you express yourself today? ",
+               "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/44/9a/1f/449a1fd5b69175d008d6fb611d5a0fce.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "22"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Let your fashion choices reflect the depth and complexity of your character.",
+             "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/564x/bf/7e/60/bf7e60e706ee089b2efd83ba81b460e5.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "16"
+    }
+----------------------------------------------------------------------------------------------
+    {
+        "content": "Fashion is a way to express yourself. How will you show your personality today?",
+                "hashtag": ["#individualstyle", "#fashionstories", "#casualvibes"],
+        "image": ["https://i.pinimg.com/736x/07/b4/89/07b489c7959313d38f60a5d5d1480c15.jpg"],
+        "status": "ACTIVE",
+        "typeOfPosts": "POSTS",
+        "userID": "1"
+    }
+----------------------------------------------------------------------------------------------

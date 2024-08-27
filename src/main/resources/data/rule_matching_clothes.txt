@@ -1,0 +1,757 @@
+{
+  "styleName": "CYBERPUNK",
+  "bodyShapeName": "HOURGLASS_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "BLACK",
+  "topOutside": "BOMBER",
+  "topOutsideColor": "BLUE_NAVY",
+  "topMaterial": "POLYESTER",
+  "bottomKind": "JOGGER",
+  "bottomColor": "BURNING_RED",
+  "bottomMaterial": "POLYESTER",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "CAP",
+  "accessoryMaterial": "FABRIC",
+  "clothesGender" : "MALE"
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "CYBERPUNK",
+  "bodyShapeName": "PEAR_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "GRAY",
+  "topOutside": "HOODIE",
+  "topOutsideColor": "BLACK",
+  "topMaterial": "FLEECE",
+  "bottomKind": "JOGGER",
+  "bottomColor": "BLACK",
+  "bottomMaterial": "POLYESTER",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "XANH_NEON",
+  "accessoryKind": "CAP",
+  "accessoryMaterial": "FABRIC",
+  "clothesGender" : "MALE"
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "CYBERPUNK",
+  "bodyShapeName": "APPLE_SHAPE",
+  "topInside": "CROP_TOP",
+  "topInsideColor": "WHITE",
+  "topOutside": "X",
+  "topOutsideColor": "BLACK",
+  "topMaterial": "COTTON",
+  "bottomKind": "JEANS",
+  "bottomColor": "AQUA_NEON",
+  "bottomMaterial": "COTTON",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "X",
+  "accessoryMaterial": "X",
+  "clothesGender" : "FEMALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "CYBERPUNK",
+  "bodyShapeName": "RECTANGLE_SHAPE",
+  "topInside": "CROP_TOP",
+  "topInsideColor": "GRAY",
+  "topOutside": "X",
+  "topOutsideColor": "BLACK",
+  "topMaterial": "COTTON",
+  "bottomKind": "JOGGER",
+  "bottomColor": "BLUE_NEON",
+  "bottomMaterial": "POLYESTER",
+  "shoesType": "DR_MARTENS",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "HANDBAG",
+  "accessoryMaterial": "FABRIC",
+  "clothesGender" : "FEMALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "CYBERPUNK",
+  "bodyShapeName": "INVERTED_TRIANGLE_SHAPE",
+  "topInside": "CROP_TOP",
+  "topInsideColor": "HỐNG_NEON",
+  "topOutside": "X",
+  "topOutsideColor": "XANH_NEON",
+  "topMaterial": "COTTON",
+  "bottomKind": "JOGGER",
+  "bottomColor": "XANH_NEON",
+  "bottomMaterial": "POLYESTER",
+  "shoesType": "DR_MARTENS",
+  "shoesTypeColor": "YELLOW_NEON",
+  "accessoryKind": "X",
+  "accessoryMaterial": "X",
+  "clothesGender" : "FEMALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "CYBERPUNK",
+  "bodyShapeName": "LEAN_OR_SLIM_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "BURNING_RED",
+  "topOutside": "X",
+  "topOutsideColor": "BLACK",
+  "topMaterial": "COTTON",
+  "bottomKind": "SKINNY",
+  "bottomColor": "GRAY",
+  "bottomMaterial": "DENIM",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "X",
+  "accessoryMaterial": "X",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "CLASSIC",
+  "bodyShapeName": "HOURGLASS_SHAPE",
+  "topInside": "X",
+  "topInsideColor": "WHITE",
+  "topOutside": "SHIRT",
+  "topOutsideColor": "BLACK",
+  "topMaterial": "COTTON",
+  "bottomKind": "PANTS",
+  "bottomColor": "BROWN",
+  "bottomMaterial": "COTTON",
+  "shoesType": "LOAFERS",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "WATCH",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "CLASSIC",
+  "bodyShapeName": "PEAR_SHAPE",
+  "topInside": "X",
+  "topInsideColor": "WHITE",
+  "topOutside": "POLO_SHIRT",
+  "topOutsideColor": "BLUE_NAVY",
+  "topMaterial": "COTTON",
+  "bottomKind": "WIDE_LEG_PANT",
+  "bottomColor": "BLACK",
+  "bottomMaterial": "LINEN",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "BLUE_NAVY",
+  "accessoryKind": "WATCH",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "CLASSIC",
+  "bodyShapeName": "APPLE_SHAPE",
+  "topInside": "X",
+  "topInsideColor": "GRAY",
+  "topOutside": "SHIRT",
+  "topOutsideColor": "BLACK",
+  "topMaterial": "COTTON",
+  "bottomKind": "WIDE_LEG_PANT",
+  "bottomColor": "BEIGE",
+  "bottomMaterial": "LINEN",
+  "shoesType": "DR_MARTENS",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "BEANIE",
+  "accessoryMaterial": "FABRIC",
+  "clothesGender" : "FEMALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "CLASSIC",
+  "bodyShapeName": "RECTANGLE_SHAPE",
+  "topInside": "X",
+  "topInsideColor": "WHITE",
+  "topOutside": "SHIRT",
+  "topOutsideColor": "XANH_OLIVE",
+  "topMaterial": "COTTON",
+  "bottomKind": "SKIRT",
+  "bottomColor": "BLACK",
+  "bottomMaterial": "COTTON",
+  "shoesType": "OXFORD",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "NECKLACE",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "FEMALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "CLASSIC",
+  "bodyShapeName": "INVERTED_TRIANGLE_SHAPE",
+  "topInside": "X",
+  "topInsideColor": "GRAY",
+  "topOutside": "SHIRT",
+  "topOutsideColor": "BROWN",
+  "topMaterial": "COTTON",
+  "bottomKind": "SKIRT",
+  "bottomColor": "ĐỎ_BURGUNDY",
+  "bottomMaterial": "POLYESTER",
+  "shoesType": "LOAFERS",
+  "shoesTypeColor": "BROWN",
+  "accessoryKind": "HANDBAG",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "FEMALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "CLASSIC",
+  "bodyShapeName": "ROUND_SHAPE",
+  "topInside": "X",
+  "topInsideColor": "WHITE",
+  "topOutside": "SHIRT",
+  "topOutsideColor": "BLUE_NAVY",
+  "topMaterial": "COTTON",
+  "bottomKind": "PANTS",
+  "bottomColor": "BURNING_RED",
+  "bottomMaterial": "COTTON",
+  "shoesType": "CHELSEA_BOOTS",
+  "shoesTypeColor": "BLUE_NAVY",
+  "accessoryKind": "SUNGLASSES",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "ROCK",
+  "bodyShapeName": "HOURGLASS_SHAPE",
+  "topInside": "X",
+  "topInsideColor": "WHITE",
+  "topOutside": "T_SHIRT",
+  "topOutsideColor": "BLACK",
+  "topMaterial": "COTTON",
+  "bottomKind": "JEANS",
+  "bottomColor": "BLACK",
+  "bottomMaterial": "COTTON",
+  "shoesType": "BOOTS",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "WATCH",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "FEMALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "ROCK",
+  "bodyShapeName": "PEAR_SHAPE",
+  "topInside": "SHIRT",
+  "topInsideColor": "WHITE",
+  "topOutside": "JACKET",
+  "topOutsideColor": "RED",
+  "topMaterial": "LEATHER",
+  "bottomKind": "JEANS",
+  "bottomColor": "RED",
+  "bottomMaterial": "COTTON",
+  "shoesType": "BOOTS",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "NECKLACE",
+  "accessoryMaterial": "FABRIC",
+  "clothesGender" : "UNISEX"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "ROCK",
+  "bodyShapeName": "RECTANGLE_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "WHITE",
+  "topOutside": "BLAZER",
+  "topOutsideColor": "DARK_BLUE",
+  "topMaterial": "LEATHER",
+  "bottomKind": "JEANS",
+  "bottomColor": "BLACK",
+  "bottomMaterial": "COTTON",
+  "shoesType": "BOOTS",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "EARINGS",
+  "accessoryMaterial": "LEATHER",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "ROCK",
+  "bodyShapeName": "INVERTED_TRIANGLE_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "BLACK",
+  "topOutside": "BOMBER",
+  "topOutsideColor": "GRAY",
+  "topMaterial": "LEATHER",
+  "bottomKind": "JEANS",
+  "bottomColor": "BLACK",
+  "bottomMaterial": "COTTON",
+  "shoesType": "BOOTS",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "NECKLACE",
+  "accessoryMaterial": "LEATHER",
+  "clothesGender" : "UNISEX"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "ROCK",
+  "bodyShapeName": "ROUND_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "WHITE_CREAM",
+  "topOutside": "HOODIE",
+  "topOutsideColor": "BROWN",
+  "topMaterial": "COTTON",
+  "bottomKind": "JEANS",
+  "bottomColor": "BLACK",
+  "bottomMaterial": "COTTON",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "SNAPBACK",
+  "accessoryMaterial": "FABRIC",
+  "clothesGender" : "UNISEX"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "ROCK",
+  "bodyShapeName": "LEAN_OR_SLIM_SHAPE",
+  "topInside": "SHIRT",
+  "topInsideColor": "ORANGE",
+  "topOutside": "BLAZER",
+  "topOutsideColor": "BLACK",
+  "topMaterial": "FLANNEL",
+  "bottomKind": "JEANS",
+  "bottomColor": "BLACK",
+  "bottomMaterial": "COTTON",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "SUNGLASSES",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "PREPPY",
+  "bodyShapeName": "HOURGLASS_SHAPE",
+  "topInside": "POLO_SHIRT",
+  "topInsideColor": "WHITE",
+  "topOutside": "X",
+  "topOutsideColor": "BLUE_NAVY",
+  "topMaterial": "COTTON",
+  "bottomKind": "PANTS",
+  "bottomColor": "BEIGE",
+  "bottomMaterial": "COTTON",
+  "shoesType": "LOAFERS",
+  "shoesTypeColor": "RED",
+  "accessoryKind": "WATCH",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "PREPPY",
+  "bodyShapeName": "PEAR_SHAPE",
+  "topInside": "SHIRT",
+  "topInsideColor": "HỒNG_PASTEL",
+  "topOutside": "SWEATER",
+  "topOutsideColor": "XANH_PASTEL",
+  "topMaterial": "WOOL",
+  "bottomKind": "SKIRT",
+  "bottomColor": "WHITE",
+  "bottomMaterial": "POLYESTER",
+  "shoesType": "OXFORD",
+  "shoesTypeColor": "WHITE",
+  "accessoryKind": "HANDBAG",
+  "accessoryMaterial": "LEATHER",
+  "clothesGender" : "UNISEX"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "PREPPY",
+  "bodyShapeName": "APPLE_SHAPE",
+  "topInside": "SHIRT",
+  "topInsideColor": "BLUE_NAVY",
+  "topOutside": "SWEATER",
+  "topOutsideColor": "NÂU_VÀNG_NHẠT",
+  "topMaterial": "COTTON",
+  "bottomKind": "WIDE_LEG_PANT",
+  "bottomColor": "BLACK",
+  "bottomMaterial": "LINEN",
+  "shoesType": "LOAFERS",
+  "shoesTypeColor": "WHITE",
+  "accessoryKind": "HANDBAG",
+  "accessoryMaterial": "LEATHER",
+  "clothesGender" : "UNISEX"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "PREPPY",
+  "bodyShapeName": "RECTANGLE_SHAPE",
+  "topInside": "POLO_SHIRT",
+  "topInsideColor": "WHITE",
+  "topOutside": "X",
+  "topOutsideColor": "X",
+  "topMaterial": "COTTON",
+  "bottomKind": "SKIRT",
+  "bottomColor": "RED",
+  "bottomMaterial": "COTTON",
+  "shoesType": "LOAFERS",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "HANDBAG",
+  "accessoryMaterial": "FABRIC",
+  "clothesGender" : "FEMALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "PREPPY",
+  "bodyShapeName": "ROUND_SHAPE",
+  "topInside": "SHIRT",
+  "topInsideColor": "WHITE",
+  "topOutside": "BLAZER",
+  "topOutsideColor": "X",
+  "topMaterial": "FLANNEL",
+  "bottomKind": "SKIRT",
+  "bottomColor": "XANH_PASTEL",
+  "bottomMaterial": "COTTON",
+  "shoesType": "OXFORD",
+  "shoesTypeColor": "PINK",
+  "accessoryKind": "HANDBAG",
+  "accessoryMaterial": "FABRIC",
+  "clothesGender" : "FEMALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "PREPPY",
+  "bodyShapeName": "LEAN_OR_SLIM_SHAPE",
+  "topInside": "POLO_SHIRT",
+  "topInsideColor": "BLACK",
+  "topOutside": "X",
+  "topOutsideColor": "NÂU_VÀNG_NHẠT",
+  "topMaterial": "COTTON",
+  "bottomKind": "SKIRT",
+  "bottomColor": "WHITE",
+  "bottomMaterial": "COTTON",
+  "shoesType": "OXFORD",
+  "shoesTypeColor": "WHITE",
+  "accessoryKind": "SUNGLASSES",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "FEMALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "NORMCORE",
+  "bodyShapeName": "HOURGLASS_SHAPE",
+  "topInside": "SHIRT",
+  "topInsideColor": "GRAY",
+  "topOutside": "SWEATER",
+  "topOutsideColor": "WHITE",
+  "topMaterial": "WOOL",
+  "bottomKind": "JEANS",
+  "bottomColor": "BLACK",
+  "bottomMaterial": "COTTON",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "WHITE",
+  "accessoryKind": "HANDBAG",
+  "accessoryMaterial": "LEATHER",
+  "clothesGender" : "UNISEX"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "NORMCORE",
+  "bodyShapeName": "PEAR_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "BLACK",
+  "topOutside": "HOODIE",
+  "topOutsideColor": "WHITE_CREAM",
+  "topMaterial": "COTTON",
+  "bottomKind": "JOGGER",
+  "bottomColor": "BROWN",
+  "bottomMaterial": "POLYESTER",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "NUDE",
+  "accessoryKind": "SNAPBACK",
+  "accessoryMaterial": "FABRIC",
+  "clothesGender" : "UNISEX"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "NORMCORE",
+  "bodyShapeName": "RECTANGLE_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "WHITE",
+  "topOutside": "X",
+  "topOutsideColor": "GRAY",
+  "topMaterial": "LEATHER",
+  "bottomKind": "JEANS",
+  "bottomColor": "BLACK",
+  "bottomMaterial": "COTTON",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "GRAY",
+  "accessoryKind": "SNAPBACK",
+  "accessoryMaterial": "FABRIC",
+  "clothesGender" : "UNISEX"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "NORMCORE",
+  "bodyShapeName": "INVERTED_TRIANGLE_SHAPE",
+  "topInside": "LONG_SLEEVE",
+  "topInsideColor": "WHITE",
+  "topOutside": "SWEATER",
+  "topOutsideColor": "BLACK",
+  "topMaterial": "WOOL",
+  "bottomKind": "WIDE_LEG_PANT",
+  "bottomColor": "BLUE",
+  "bottomMaterial": "LINEN",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "EARINGS",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "NORMCORE",
+  "bodyShapeName": "ROUND_SHAPE",
+  "topInside": "LONG_SLEEVE",
+  "topInsideColor": "HỒNG_NHẠT",
+  "topOutside": "SWEATER",
+  "topOutsideColor": "GRAY",
+  "topMaterial": "WOOL",
+  "bottomKind": "JOGGER",
+  "bottomColor": "WHITE",
+  "bottomMaterial": "POLYESTER",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "GRAY",
+  "accessoryKind": "NECKLACE",
+  "accessoryMaterial": "FABRIC",
+  "clothesGender" : "UNISEX"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "NORMCORE",
+  "bodyShapeName": "LEAN_OR_SLIM_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "BLACK",
+  "topOutside": "X",
+  "topOutsideColor": "BROWN",
+  "topMaterial": "FLANNEL",
+  "bottomKind": "JEANS",
+  "bottomColor": "WHITE",
+  "bottomMaterial": "COTTON",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "BROWN",
+  "accessoryKind": "SUNGLASSES",
+  "accessoryMaterial": "FABRIC",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "MINIMALISM",
+  "bodyShapeName": "PEAR_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "WHITE",
+  "topOutside": "X",
+  "topOutsideColor": "BLACK",
+  "topMaterial": "COTTON",
+  "bottomKind": "JOGGER",
+  "bottomColor": "GRAY",
+  "bottomMaterial": "COTTON",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "BRACELET",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "MINIMALISM",
+  "bodyShapeName": "HOURGLASS_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "WHITE",
+  "topOutside": "BLAZER",
+  "topOutsideColor": "WHITE",
+  "topMaterial": "COTTON",
+  "bottomKind": "BAGGY",
+  "bottomColor": "GRAY",
+  "bottomMaterial": "COTTON",
+  "shoesType": "LOAFERS",
+  "shoesTypeColor": "HỒNG_NHẠT",
+  "accessoryKind": "BRACELET",
+  "accessoryMaterial": "GOLD",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "MINIMALISM",
+  "bodyShapeName": "APPLE_SHAPE",
+  "topInside": "X",
+  "topInsideColor": "GRAY",
+  "topOutside": "HOODIE",
+  "topOutsideColor": "HỒNG_NHẠT",
+  "topMaterial": "FLEECE",
+  "bottomKind": "CARGO_PANT",
+  "bottomColor": "DARK_GREEN",
+  "bottomMaterial": "NYLON",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "GRAY",
+  "accessoryKind": "BRACELET",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "UNISEX"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "MINIMALISM",
+  "bodyShapeName": "RECTANGLE_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "BLUE_NAVY",
+  "topOutside": "SWEATER",
+  "topOutsideColor": "X",
+  "topMaterial": "WOOL",
+  "bottomKind": "SKINNY",
+  "bottomColor": "WHITE",
+  "bottomMaterial": "DENIM",
+  "shoesType": "CHELSEA_BOOTS",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "BEANIE",
+  "accessoryMaterial": "COTTON",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "MINIMALISM",
+  "bodyShapeName": "INVERTED_TRIANGLE_SHAPE",
+  "topInside": "SHIRT",
+  "topInsideColor": "WHITE",
+  "topOutside": "BLAZER",
+  "topOutsideColor": "BROWN",
+  "topMaterial": "COTTON",
+  "bottomKind": "SUIT_PANTS",
+  "bottomColor": "WHITE",
+  "bottomMaterial": "POLYESTER",
+  "shoesType": "OXFORD",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "WATCH",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "BASIC",
+  "bodyShapeName": "HOURGLASS_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "BLACK",
+  "topOutside": "X",
+  "topOutsideColor": "WHITE",
+  "topMaterial": "COTTON",
+  "bottomKind": "BAGGY",
+  "bottomColor": "GRAY",
+  "bottomMaterial": "DENIM",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "GRAY",
+  "accessoryKind": "BRACELET",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "BASIC",
+  "bodyShapeName": "APPLE_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "WHITE",
+  "topOutside": "HOODIE",
+  "topOutsideColor": "BROWN",
+  "topMaterial": "FLEECE",
+  "bottomKind": "CARGO_PANT",
+  "bottomColor": "BLUE_NAVY",
+  "bottomMaterial": "NYLON",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "BROWN",
+  "accessoryKind": "BRACELET",
+  "accessoryMaterial": "METAL",
+  "clothesGender" : "MALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "BASIC",
+  "bodyShapeName": "INVERTED_TRIANGLE_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "BEIGE",
+  "topOutside": "DRESS",
+  "topOutsideColor": "BLACK",
+  "topMaterial": "JERSEY",
+  "bottomKind": "X",
+  "bottomColor": "XANH_OLIVE",
+  "bottomMaterial": "X",
+  "shoesType": "PUMPS",
+  "shoesTypeColor": "BLACK",
+  "accessoryKind": "BRACELET",
+  "accessoryMaterial": "GOLD",
+  "clothesGender" : "FEMALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "BASIC",
+  "bodyShapeName": "PEAR_SHAPE",
+  "topInside": "SHIRT",
+  "topInsideColor": "WHITE",
+  "topOutside": "X",
+  "topOutsideColor": "BLUE_NAVY",
+  "topMaterial": "COTTON",
+  "bottomKind": "WIDE_LEG_PANT",
+  "bottomColor": "RED",
+  "bottomMaterial": "LINEN",
+  "shoesType": "SANDALS",
+  "shoesTypeColor": "BLUE_NAVY",
+  "accessoryKind": "EARINGS",
+  "accessoryMaterial": "GOLD",
+  "clothesGender" : "FEMALE"
+
+}
+-----------------------------------------------------------------------------------------------------------------------------
+{
+  "styleName": "BASIC",
+  "bodyShapeName": "RECTANGLE_SHAPE",
+  "topInside": "T_SHIRT",
+  "topInsideColor": "BEIGE",
+  "topOutside": "X",
+  "topOutsideColor": "BROWN",
+  "topMaterial": "COTTON",
+  "bottomKind": "HIGH_WAISTED_SHORTS",
+  "bottomColor": "XANH_OLIVE",
+  "bottomMaterial": "DENIM",
+  "shoesType": "SNEAKER",
+  "shoesTypeColor": "BROWN",
+  "accessoryKind": "BRACELET",
+  "accessoryMaterial": "LEATHER",
+  "clothesGender" : "MALE"
+}
+-----------------------------------------------------------------------------------------------------------------------------
